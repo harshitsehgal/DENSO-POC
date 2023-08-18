@@ -3,17 +3,18 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
-    "Gallery2": 7,
-    "galleryTemplate2": 8,
+    "Gallery2": 5,
+    "galleryTemplate2": 6,
     "Host": 3,
+    "Label1": 7,
     "Screen1": 4
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "08/18/2023 12:36:34",
+  "HeaderLastSavedDateTimeUTC": "08/18/2023 12:41:05",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
-    "de050a69-9414-4d24-89f7-b913ad150f44": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/58d5e845832e4d5dac48ee8ae86472f6\""
+    "de050a69-9414-4d24-89f7-b913ad150f44": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/shared-sharepointonl-6dcccbc7-4735-42cd-86e0-d28db1022883\""
   },
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
@@ -28,13 +29,15 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "gallery": 0
+    "gallery": 0,
+    "label": 1
   },
   "OverridablePropertiesEntry": {
     "App": {},
     "Gallery2": {},
     "galleryTemplate2": {},
     "Host": {},
+    "Label1": {},
     "Screen1": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
@@ -44,14 +47,20 @@
     "Gallery2": 0,
     "galleryTemplate2": 1,
     "Host": 0,
+    "Label1": 0,
     "Screen1": 0
   },
   "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0228913,
-    "ControlCount": {}
+    "AnalysisLoadTime": 0.0656915,
+    "ControlCount": {
+      "gallery": 1,
+      "galleryTemplate": 1,
+      "screen": 1
+    },
+    "DeserializationLoadTime": 1.8895851
   },
   "WasLocalDatabaseReferencesEmpty": true
 }
