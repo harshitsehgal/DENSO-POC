@@ -18,3 +18,9 @@ Screen1 As screen:
         Y: =60
         ZIndex: =2
 
+    Label2 As label:
+        Text: ="Demo Try"
+        X: =210
+        Y: =60
+        ZIndex: =3
+
