@@ -1,26 +1,70 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Gallery2": 5,
+    "galleryTemplate2": 6,
+    "Host": 3,
+    "Label1": 8,
+    "Label2": 7,
+    "Screen1": 4
+  },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "08/18/2023 12:45:47",
   "IsLegacyComponentAllowGlobalScopeCase": false,
-  "LocalConnectionIDReferences": {},
+  "LocalConnectionIDReferences": {
+    "de050a69-9414-4d24-89f7-b913ad150f44": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/shared-sharepointonl-6dcccbc7-4735-42cd-86e0-d28db1022883\""
+  },
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {},
+  "OrderDataSource": {
+    "CustomGallerySample": 0,
+    "Diam Corporate Directory-Directory Export Info": 1
+  },
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {},
-  "OverridablePropertiesEntry": {},
+  "OrderXMLTemplate": {
+    "gallery": 0,
+    "label": 1
+  },
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "Gallery2": {},
+    "galleryTemplate2": {},
+    "Host": {},
+    "Label1": {},
+    "Label2": {},
+    "Screen1": {}
+  },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
-  "PublishOrderIndices": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "Gallery2": 4,
+    "galleryTemplate2": 7,
+    "Host": 0,
+    "Label1": 6,
+    "Label2": 5,
+    "Screen1": 3
+  },
   "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {}
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0122014,
+    "ControlCount": {
+      "gallery": 1,
+      "galleryTemplate": 1,
+      "label": 2,
+      "screen": 1
+    },
+    "DeserializationLoadTime": 0.7668937
+  },
+  "WasLocalDatabaseReferencesEmpty": true
 }
