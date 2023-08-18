@@ -12,13 +12,6 @@ Screen1 As screen:
         Y: =40
         ZIndex: =1
 
-        Label3 As label:
-            OnSelect: =Select(Parent)
-            Text: ="Yash"
-            X: =326
-            Y: =24
-            ZIndex: =1
-
     Label1 As label:
         Text: ="DEMO 1"
         X: =60
