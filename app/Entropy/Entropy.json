@@ -1,76 +1,26 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {
-    "App": 1,
-    "Gallery2": 5,
-    "galleryTemplate2": 6,
-    "Host": 3,
-    "Label1": 8,
-    "Label2": 7,
-    "Label3": 9,
-    "Label4": 10,
-    "Screen1": 4
-  },
+  "ControlUniqueIds": {},
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "08/18/2023 12:46:11",
   "IsLegacyComponentAllowGlobalScopeCase": false,
-  "LocalConnectionIDReferences": {
-    "de050a69-9414-4d24-89f7-b913ad150f44": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/shared-sharepointonl-c93aaff8-0f04-4665-917f-268438147f00\""
-  },
+  "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {
-    "CustomGallerySample": 0,
-    "Diam Corporate Directory-Directory Export Info": 1
-  },
+  "OrderDataSource": {},
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {
-    "gallery": 1,
-    "label": 0
-  },
-  "OverridablePropertiesEntry": {
-    "App": {},
-    "Gallery2": {},
-    "galleryTemplate2": {},
-    "Host": {},
-    "Label1": {},
-    "Label2": {},
-    "Label3": {},
-    "Label4": {},
-    "Screen1": {}
-  },
+  "OrderXMLTemplate": {},
+  "OverridablePropertiesEntry": {},
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
-  "PublishOrderIndices": {
-    "App": 0,
-    "Gallery2": 4,
-    "galleryTemplate2": 7,
-    "Host": 0,
-    "Label1": 6,
-    "Label2": 5,
-    "Label3": 0,
-    "Label4": 0,
-    "Screen1": 3
-  },
+  "PublishOrderIndices": {},
   "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {},
-  "VolatileProperties": {
-    "AnalysisLoadTime": 0.0705547,
-    "ControlCount": {
-      "gallery": 1,
-      "galleryTemplate": 1,
-      "label": 2,
-      "screen": 1
-    },
-    "DeserializationLoadTime": 1.3550723
-  },
-  "WasLocalDatabaseReferencesEmpty": true
+  "TemplateVersions": {}
 }
