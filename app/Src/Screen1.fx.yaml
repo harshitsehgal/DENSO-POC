@@ -31,9 +31,3 @@ Screen1 As screen:
         Y: =60
         ZIndex: =3
 
-    Label4 As label:
-        Text: ="lhdvbidsfb"
-        X: =210
-        Y: =283
-        ZIndex: =4
-
