@@ -12,21 +12,3 @@ Screen1 As screen:
         Y: =40
         ZIndex: =1
 
-    Label1 As label:
-        Text: ="DEMO 1"
-        X: =60
-        Y: =60
-        ZIndex: =2
-
-    Label2 As label:
-        Text: ="Demo Try"
-        X: =210
-        Y: =60
-        ZIndex: =3
-
-    Label4 As label:
-        Text: ="lhdvbidsfb"
-        X: =210
-        Y: =283
-        ZIndex: =4
-
